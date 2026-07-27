@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://emalawi.github.io/Calculator/sitemap.xml
